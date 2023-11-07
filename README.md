@@ -33,3 +33,6 @@ As we have to train the model to determine the continuous values, so we will be 
 SVM-Support Vector Machine
 Random Forest Regressor
 Linear Regressor
+
+Linear Regression
+Linear Regression predicts the final output-dependent value based on the given independent features. Like, here we have to predict SalePrice depending on features like MSSubClass, YearBuilt, BldgType, Exterior1st etc. 
