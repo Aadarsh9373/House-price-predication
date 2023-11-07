@@ -26,3 +26,10 @@ Filling the empty slots with mean/mode/0/NA/etc. (depending on the dataset requi
 
 Splitting Dataset into Training and Testing
 X and Y splitting (i.e. Y is the SalePrice column and the rest of the other columns are X)
+
+Model and Accuracy
+As we have to train the model to determine the continuous values, so we will be using these regression models.
+
+SVM-Support Vector Machine
+Random Forest Regressor
+Linear Regressor
