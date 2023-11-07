@@ -23,3 +23,6 @@ As in our dataset, there are some columns that are not important and irrelevant 
 
 We can easily delete the column/row (if the feature or record is not much important).
 Filling the empty slots with mean/mode/0/NA/etc. (depending on the dataset requirement).
+
+Splitting Dataset into Training and Testing
+X and Y splitting (i.e. Y is the SalePrice column and the rest of the other columns are X)
