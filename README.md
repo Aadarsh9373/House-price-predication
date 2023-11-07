@@ -15,3 +15,11 @@ Now, we categorize the features depending on their datatype (int, float, object)
 
 Exploratory Data Analysis
 EDA refers to the deep analysis of data so as to discover different patterns and spot anomalies. Before making inferences from data it is essential to examine all your variables.
+
+Data Cleaning
+Data Cleaning is the way to improvise the data or remove incorrect, corrupted or irrelevant data.
+
+As in our dataset, there are some columns that are not important and irrelevant for the model training. So, we can drop that column before training. There are 2 approaches to dealing with empty/null values
+
+We can easily delete the column/row (if the feature or record is not much important).
+Filling the empty slots with mean/mode/0/NA/etc. (depending on the dataset requirement).
